@@ -1,0 +1,30 @@
+body{
+    background-color: rgb(252, 247, 247);
+}
+
+.face #yujji{
+    height:250px;
+    width: auto;
+}
+
+#yujji {
+    padding: 20px;
+    border: hidden;
+    border-radius: 50px;
+    
+    
+}
+
+#hike{
+    border-radius: 50px;
+    padding-left: 20px;
+}
+
+a{
+    text-decoration: none;
+    color:black;
+}
+
+#me{
+    color:gold;
+}
